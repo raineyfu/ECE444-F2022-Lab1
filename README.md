@@ -12,7 +12,7 @@ https://github.com/markuskunej/ECE444-F2022-Lab1
 
 ![image](https://user-images.githubusercontent.com/59759137/191354586-24e172c7-f31f-47c5-ba00-c6dac2835b58.png)
 
-![image](https://user-images.githubusercontent.com/59759137/191355806-6287ab06-5e2c-42cd-8510-31333b53fb9e.png)
+![image](https://user-images.githubusercontent.com/59759137/191356160-3af024cb-db89-4235-90e7-9d4218a48385.png)
 
 ![image](https://user-images.githubusercontent.com/59759137/191355831-a32c92ac-12ce-4366-b0b8-27c4e1b71006.png)
 
